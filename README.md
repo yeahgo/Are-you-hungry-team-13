@@ -18,9 +18,12 @@
 The recommendation engnine enables users to input features that indicate their preferences.Our machine can output top 5 restaurants with highest yelp rating from as our recommendation for the user.
 * User input features: 
 1. Restaurant name keyword
-2. Restaurant neighborhood
-3. User's expcected rating
-4. Restaurant ambience
+2. Cuisine type
+3. Restaurant neighborhood
+4. User's expcected rating
+5. User's expected price range
+6. Party
+
 * Recommendation engine output: (5 restaurants with following features) 
 1. Restaurant name
 2. Yelp rating
@@ -28,3 +31,7 @@ The recommendation engnine enables users to input features that indicate their p
 4. Restaurant address
 5. Attire
 6. Price range
+7. Parking info
+8. Reservability
+9. Restaurant Ambience
+
