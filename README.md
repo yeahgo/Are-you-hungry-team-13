@@ -22,7 +22,7 @@ The recommendation engnine enables users to input features that indicate their p
 3. Restaurant neighborhood
 4. User's expcected rating
 5. User's expected price range
-6. Party
+6. Party size
 
 * Recommendation engine output: (5 restaurants with following features) 
 1. Restaurant name
@@ -35,4 +35,7 @@ The recommendation engnine enables users to input features that indicate their p
 8. Reservability
 9. Restaurant Ambience
 
-(if less than 5 restaurants match with the user's preference, our system will only output less than 5 restaurants)
+Note: 
+- If less than 5 restaurants match with the user's preference, our system will only output less than 5 restaurants.
+
+- IAppearance of 'Nan' in some output features means Yelp provides no info about this feature.
