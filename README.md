@@ -1,13 +1,17 @@
 # Final Project Team 13
 ## A Restaurant Recommendation System based on Yelp Information ##
-**Project Goal**: 
 
-* Create an NYC restaurant information database and use the database to recommend users restaurants which match with their preferences.
+**Project Goals**: 
+* Scrape NYC restaurant information from Yelp
+* Create an NYC restaurant information database 
+* Build a restaurant recommendation engine that use our database to recommend users restaurants which match with their preferences
 
 **Data Acquisition**:
 
- * Use "Yelp Restaurant Info Scraper.ipynb" to get search urls and scrape information for restaurants with different cuisine type. The script iterates through all locations in NYC. 
- * After getting the csv for each cuisine type, we use "Dataframe Cleaner.ipynb" to clean and merge all the csv files as a final dataframe. We use this final dataframe (final_df.csv) as our database.
+ * Use "Yelp Restaurant Info Scraper.ipynb" to get search urls and scrape information for restaurants with different cuisine type from Yelp webiste. The script iterates through all locations in NYC. 
+ * After getting the csv for each cuisine type, we use "Dataframe Cleaner.ipynb" to clean and merge all the csv files into a final dataframe. 
+ 
+     We use this final dataframe (final_df.csv) as our database.
  * Our final dataframe has about 1800 NYC restaurants.
 
 **Recommendation Engine**: 
