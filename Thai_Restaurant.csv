@@ -1,0 +1,378 @@
+,Accepts Bitcoin,Accepts Credit Cards,Alcohol,Ambience,Attire,Bike Parking,Category,Caters,Delivery,Dogs Allowed,Gender Neutral Restrooms,Good For,Good for Groups,Good for Kids,Happy Hour,Has Dairy-free Options,Has Gluten-free Options,Has Soy-free Options,Has TV,Hygiene_score,Liked by Vegans,Liked by Vegetarians,Noise Level,Outdoor Seating,Parking,Take-out,Takes Reservations,Waiter Service,Wheelchair Accessible,Wi-Fi,price_range,restaurant_name,restaurant_neighobrhood,restaurant_rating,restaurant_reviewcount,restaurant_zipcode,retaurant_address
+0,No,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; Malaysian; Vietnamese; ,Yes,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Yes,NA,Yes,Yes,B,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,Yes,Free,$11-30,LoveMama,East Village,4.0,3692,10003,174 2nd Ave
+1,NA,Yes,Full Bar,Casual,Casual,Yes,Thai; ,No,Yes,No,Yes,Dinner,Yes,Yes,NA,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,Yes,Yes,NA,No,$11-30,Somtum Der,"East Village, Alphabet City",4.0,618,10009,85 Ave A
+2,NA,Yes,No,NA,NA,NA,Thai; ,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Street,Yes,No,Yes,NA,No,NA,Eat’s Khao Man Gai,"East Village, Alphabet City",4.0,38,10009,518 E 6th St
+3,NA,NA,NA,NA,NA,NA,Thai; ,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,Yes,NA,NA,NA,NA,NA,Thai Direct Bowls,"East Village, Alphabet City",4.5,11,10009,131 Avenue AGround Fl
+4,NA,Yes,Beer & Wine Only,"Casual, Intimate",Casual,Yes,Thai; ,No,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,No,NA,NA,NA,No,NA,NA,Yes,Quiet,Yes,Street,Yes,Yes,Yes,No,Free,$11-30,Very Thai,"East Village, Alphabet City",4.5,76,10009,186 Avenue B
+5,NA,Yes,No,"Casual, Intimate",Casual,Yes,Thai; ,Yes,Yes,NA,NA,Dinner,No,No,NA,NA,NA,NA,No,A,Yes,Yes,Quiet,No,Street,Yes,No,NA,NA,No,$11-30,Lui’s Thai Food,East Village,4.0,227,10003,128 E 4th St
+6,No,Yes,Full Bar,"Trendy, Romantic, Classy",Casual,No,Thai; Asian Fusion; Vegetarian; ,Yes,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,NA,Yes,NA,No,A,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,Free,$11-30,Thai Villa,Flatiron,4.5,2117,10003,5 E 19th StG Floor
+7,NA,Yes,Full Bar,NA,Casual,NA,"Thai; Bars; Beer, Wine & Spirits; ",Yes,Yes,No,Yes,NA,Yes,NA,Yes,Yes,NA,NA,Yes,NA,Yes,Yes,Average,No,NA,Yes,Yes,Yes,Yes,NA,NA,Noree Thai Bazaar,Lower East Side,4.5,49,10002,274 Grand St
+8,No,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; ,Yes,Yes,No,NA,NA,Yes,Yes,NA,NA,NA,NA,Yes,B,NA,NA,Average,No,Street,Yes,Yes,Yes,No,Free,$11-30,Hub Thai,"East Village, Alphabet City",4.5,69,10009,105 Avenue A
+9,No,Yes,Full Bar,"Casual, Trendy, Intimate, Romantic, Classy",Casual,No,Thai; Vegetarian; ,Yes,Yes,No,NA,"Lunch, Dinner",Yes,Yes,No,NA,Yes,NA,No,A,Yes,Yes,Average,No,NA,Yes,Yes,Yes,Yes,No,$11-30,Sabai Thai Restaurant,"Flatiron, Midtown East",4.5,115,10016,432 Park Ave S
+10,No,Yes,Full Bar,"Casual, Trendy, Intimate",Casual,Yes,Thai; Cocktail Bars; Halal; ,Yes,Yes,No,Yes,"Brunch, Lunch, Dinner, Dessert",Yes,Yes,Yes,Yes,Yes,Yes,No,A,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,$11-30,Top Thai Greenwich,Greenwich Village,4.5,846,10012,235 Sullivan St
+11,NA,Yes,Beer & Wine Only,Intimate,Casual,Yes,Thai; ,No,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,Yes,NA,NA,NA,No,NA,NA,Yes,Average,No,NA,Yes,Yes,Yes,NA,No,$11-30,The Sabieng Thai,East Village,4.0,72,10003,71 1st Ave
+12,No,Yes,Full Bar,NA,Casual,No,Thai; ,No,Yes,NA,Yes,Dinner,Yes,No,NA,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,Yes,NA,NA,No,$31-60,Uncle Boons,Nolita,4.0,738,10012,7 Spring St
+13,No,Yes,Beer & Wine Only,Casual,Casual,No,Thai; ,No,Yes,No,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,C,Yes,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,$11-30,One More Thai,Lower East Side,3.5,211,10002,6 Clinton St
+14,No,Yes,Full Bar,"Casual, Trendy",Casual,Yes,Thai; Comfort Food; Bars; ,Yes,Yes,NA,Yes,Dinner,Yes,Yes,Yes,Yes,Yes,Yes,No,B,Yes,Yes,Average,No,Street,Yes,Yes,NA,NA,No,$11-30,Thaimee Table,East Village,3.5,1226,10003,99 3rd Ave
+15,No,Yes,No,Casual,Casual,NA,Thai; ,NA,Yes,No,Yes,Dinner,Yes,Yes,NA,NA,NA,NA,No,A,Yes,Yes,Quiet,No,NA,Yes,Yes,Yes,Yes,No,$11-30,Copper Throat Thai Cuisine,Lower East Side,4.5,54,10002,123 Ludlow St
+16,No,Yes,No,NA,NA,Yes,Thai; ,Yes,Yes,No,Yes,NA,NA,NA,NA,NA,NA,NA,No,NA,NA,NA,NA,No,NA,Yes,Yes,No,Yes,No,NA,Chelsea Thai,East Village,3.5,5,10009,192 1st Ave
+17,No,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; ,Yes,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,$11-30,Williamsburg Thai Cuisine,Williamsburg - North Side,4.0,162,11249,212 Bedford Ave
+18,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; ,No,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,NA,NA,Average,No,Street,Yes,Yes,NA,NA,No,$11-30,Thai Terminal,East Village,3.5,540,10003,349 E 12th St
+19,No,Yes,Full Bar,"Casual, Trendy",Casual,No,Seafood; Thai; Live/Raw Food; ,Yes,Yes,No,Yes,Dinner,Yes,No,Yes,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,Yes,Yes,Yes,Free,$11-30,Fish Cheeks,NoHo,4.0,292,10012,55 Bond St
+20,NA,Yes,Full Bar,Casual,Casual,No,Filipino; Thai; Asian Fusion; ,No,No,NA,Yes,Dinner,Yes,No,NA,NA,NA,NA,No,A,NA,NA,Average,Yes,Street,No,Yes,NA,NA,No,$11-30,Pig and Khao,Lower East Side,4.0,1368,10002,68 Clinton St
+21,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; ,Yes,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,Yes,Yes,Average,No,Street,Yes,Yes,NA,NA,No,$11-30,Kati Thai Cuisine,"Gramercy, East Village, Stuyvesant Town",4.0,227,10003,347 E 14th St
+22,NA,Yes,Full Bar,Casual,Casual,Yes,Thai; ,Yes,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,Yes,NA,NA,Yes,Yes,A,Yes,Yes,Average,No,Street,Yes,Yes,NA,NA,Free,$11-30,Thailand Cafe,East Village,3.5,313,10003,95 2nd Ave
+23,NA,Yes,Full Bar,"Casual, Trendy",Casual,Yes,Thai; ,No,Yes,NA,NA,Dinner,Yes,No,Yes,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,Yes,Yes,NA,No,$11-30,Klong,East Village,3.5,1010,10003,7 St Marks Pl
+24,NA,Yes,Full Bar,Casual,Casual,Yes,Vietnamese; Thai; Asian Fusion; ,No,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,Yes,Yes,Yes,No,A,Yes,Yes,Average,No,Street,Yes,No,Yes,Yes,No,$11-30,Ginger and Lemongrass,Lower East Side,4.5,211,10002,153 Rivington St
+25,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; ,NA,Yes,NA,NA,"Lunch, Dinner",No,No,NA,NA,NA,NA,No,C,NA,NA,Average,No,Street,Yes,No,NA,NA,No,$11-30,Tai Thai,East Village,3.5,203,10009,78 E 1st St
+26,No,Yes,No,Casual,Casual,No,Thai; ,Yes,Yes,No,NA,"Lunch, Dinner",No,Yes,NA,NA,NA,NA,No,A,Yes,Yes,Quiet,No,"Street, Private Lot",Yes,No,Yes,No,Free,$11-30,Thailicious,Chinatown,4.0,226,10013,75 Baxter St
+27,No,Yes,Beer & Wine Only,Casual,Casual,Yes,Sushi Bars; Japanese; Thai; ,Yes,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,Yes,Yes,NA,No,A,Yes,Yes,Average,No,Street,Yes,No,Yes,NA,No,$11-30,Zest Sushi,Lower East Side,4.0,742,10002,249 Broome St
+28,No,Yes,Beer & Wine Only,"Intimate, Romantic, Classy",NA,No,Thai; Asian Fusion; Chicken Wings; ,Yes,Yes,No,Yes,Dinner,Yes,Yes,Yes,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,Yes,Yes,No,No,$11-30,Pinto Garden,West Village,4.0,148,10011,117 W 10th St
+29,No,No,Beer & Wine Only,"Casual, Trendy",Casual,Yes,Malaysian; Thai; ,Yes,Yes,No,Yes,"Brunch, Lunch, Dinner, Dessert",Yes,Yes,No,Yes,NA,Yes,No,B,Yes,Yes,Average,No,Street,Yes,Yes,Yes,No,Free,$11-30,Wok Wok,"Chinatown, Civic Center",4.0,633,10013,11 Mott St
+30,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; ,No,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,A,Yes,Yes,Average,No,Street,Yes,Yes,NA,NA,No,$11-30,Thai Jasmine Resturant,Chinatown,3.5,353,10013,106 Bayard St
+31,NA,Yes,No,Casual,Casual,Yes,Thai; ,Yes,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,NA,NA,Average,No,Street,Yes,Yes,Yes,NA,Free,$11-30,Lan Larb Soho,Little Italy,3.5,191,10013,227 Centre St
+32,NA,Yes,Full Bar,Casual,Casual,No,Thai; ,Yes,Yes,No,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,NA,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,Free,$11-30,Soho Thai,SoHo,3.5,121,10013,141 Grand St
+33,No,Yes,Full Bar,Casual,Casual,Yes,Thai; Salad; Noodles; ,Yes,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,A,Yes,Yes,Average,No,Street,Yes,Yes,Yes,NA,No,$11-30,Thai Sliders & Co.,Financial District,4.0,300,10038,108 John St
+34,NA,Yes,Beer & Wine Only,Casual,Casual,NA,Thai; ,NA,Yes,NA,NA,Dinner,No,No,No,NA,NA,NA,No,A,NA,NA,Average,Yes,Street,Yes,No,No,NA,No,$11-30,Uncle Boons Sister,Nolita,3.5,89,10012,203 Mott St
+35,No,No,Beer & Wine Only,Casual,Casual,Yes,Asian Fusion; Malaysian; Chinese; ,No,Yes,No,NA,"Lunch, Dinner",Yes,Yes,NA,Yes,Yes,Yes,No,A,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,$11-30,Nyonya,Little Italy,4.0,1900,10013,199 Grand St
+36,NA,Yes,Full Bar,Casual,Casual,Yes,Thai; Cocktail Bars; ,Yes,Yes,NA,Yes,Dinner,Yes,No,Yes,NA,NA,NA,Yes,A,NA,NA,Average,No,Street,Yes,Yes,NA,NA,No,$11-30,Sticky Rice,Lower East Side,3.5,341,10002,85 Orchard St
+37,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; Soup; ,Yes,Yes,NA,Yes,Lunch,Yes,Yes,NA,NA,NA,NA,Yes,A,NA,Yes,Average,No,Street,Yes,No,NA,NA,No,$11-30,Bennie’s Thai Cafe,Financial District,3.5,316,10038,88 Fulton St
+38,No,Yes,Full Bar,Trendy,Casual,Yes,Laotian; ,Yes,Yes,Yes,Yes,Dinner,Yes,No,NA,NA,NA,NA,No,A,Yes,Yes,Average,Yes,"Garage, Street",Yes,Yes,Yes,Yes,Free,$31-60,Khe-Yo,TriBeCa,4.0,618,10013,157 Duane St
+39,NA,Yes,No,Casual,Casual,Yes,Thai; ,Yes,Yes,NA,NA,Lunch,No,Yes,NA,Yes,NA,NA,No,A,Yes,Yes,Average,No,Street,Yes,No,Yes,NA,No,Under $10,Aroy Dee Thai Kitchen,Financial District,3.5,339,10038,20 John St
+40,NA,Yes,Full Bar,NA,Casual,Yes,Thai; Breakfast & Brunch; Irish; ,No,Yes,NA,NA,Lunch,No,No,NA,NA,NA,NA,No,A,NA,NA,Average,No,Street,Yes,No,NA,NA,No,$11-30,Lovely Day,Nolita,3.5,319,10012,196 Elizabeth St
+41,NA,Yes,Full Bar,Casual,Casual,Yes,Malaysian; Thai; Singaporean; ,Yes,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,A,Yes,Yes,Average,No,Street,Yes,Yes,NA,NA,No,$11-30,Rasa,Greenwich Village,4.0,575,10011,25 W 8th St
+42,NA,NA,NA,NA,NA,NA,Street Vendors; Thai; ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Thai sidewalk,Downtown Brooklyn,4.5,9,11201,NA
+43,NA,No,No,Casual,Casual,No,Food Trucks; Thai; ,No,No,NA,NA,Lunch,No,No,NA,NA,NA,NA,No,NA,NA,NA,Very Loud,No,NA,Yes,No,NA,NA,No,Under $10,Luckyim Thai,Financial District,4.0,143,10005,10 Hanover Sq
+44,NA,NA,NA,NA,NA,NA,Thai; ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Little Wayla,Lower East Side,5.0,1,10002,100 Forsyth St
+45,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; ,No,Yes,Yes,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,Yes,NA,No,A,NA,Yes,Average,No,Street,Yes,Yes,NA,NA,No,$11-30,Tue Thai Restaurant,West Village,3.5,313,10014,3 Greenwich Ave
+46,NA,NA,NA,NA,NA,NA,Thai; Food Trucks; ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Thai Street Food,Financial District,4.5,11,10006,89 Broadway
+47,No,Yes,No,Casual,Casual,No,Asian Fusion; Malaysian; Chinese; ,Yes,Yes,NA,Yes,Dinner,Yes,Yes,NA,NA,NA,NA,No,NA,NA,Yes,Average,No,Street,Yes,No,Yes,Yes,No,Under $10,Asian Spicy Curry Pop-up,"Chinatown, Civic Center",4.5,123,10013,46 Mulberry St
+48,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Vietnamese; ,No,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,Yes,No,A,Yes,Yes,Average,No,Street,Yes,No,Yes,NA,No,Under $10,Thái Son,Chinatown,3.5,785,10013,89 Baxter St
+49,NA,Yes,No,Casual,Casual,Yes,Thai; ,Yes,Yes,NA,NA,Lunch,No,No,NA,NA,NA,NA,No,A,NA,NA,Average,No,Street,Yes,Yes,Yes,No,No,Under $10,22 Thai Cuisine,Financial District,2.5,146,10038,59 Nassau St
+50,No,No,Beer & Wine Only,Casual,Casual,No,French; Malaysian; Asian Fusion; ,Yes,Yes,No,Yes,"Lunch, Dinner",No,Yes,No,NA,NA,NA,No,A,NA,NA,Average,No,Street,Yes,Yes,Yes,NA,Free,$11-30,Aux Epices,Little Italy,4.0,281,10013,121 Baxter St
+51,No,Yes,Beer & Wine Only,"Casual, Trendy",Casual,Yes,Vietnamese; Breakfast & Brunch; French; ,Yes,Yes,No,Yes,"Brunch, Lunch, Dinner",Yes,Yes,NA,Yes,Yes,NA,No,A,Yes,Yes,Average,Yes,NA,Yes,Yes,Yes,Yes,Free,$11-30,BoCaphe,SoHo,4.0,967,10012,222 Lafayette St
+52,NA,Yes,NA,NA,NA,NA,Vietnamese; ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Vietspot,TriBeCa,4.0,15,10013,200 Church St
+53,No,Yes,No,NA,NA,No,Food Trucks; Thai; ,Yes,No,No,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,NA,NA,NA,No,NA,Yes,No,No,Yes,No,NA,Warung Roadside,Bushwick,4.5,10,11237,NA
+54,NA,Yes,Beer & Wine Only,"Hipster, Casual",Casual,NA,Asian Fusion; Japanese; American (New); ,Yes,Yes,NA,Yes,NA,Yes,Yes,Yes,Yes,Yes,Yes,No,NA,Yes,Yes,NA,No,NA,Yes,No,NA,Yes,Free,$11-30,Omakasa,Nolita,4.0,57,10012,56 Spring St
+55,NA,No,No,Casual,Casual,Yes,Indonesian; Malaysian; ,No,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,NA,NA,NA,Average,No,Street,Yes,No,NA,NA,No,Under $10,Sanuria,"Chinatown, Civic Center",3.5,218,10013,18 Doyers St
+56,NA,No,No,Casual,Casual,Yes,Taiwanese; Chinese; Noodles; ,No,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,NA,NA,Average,No,Street,Yes,No,Yes,NA,No,Under $10,Taiwan Pork Chop House,"Chinatown, Civic Center",4.0,351,10013,3 Doyers St
+57,NA,Yes,Full Bar,"Divey, Casual",Casual,Yes,Seafood; Chinese; Asian Fusion; ,Yes,Yes,NA,Yes,"Dinner, Late Night",Yes,No,NA,NA,NA,NA,Yes,NA,NA,Yes,Average,No,Street,Yes,Yes,NA,NA,Free,$11-30,Fishmarket Restaurant,South Street Seaport,4.5,464,10038,111 South St
+58,NA,Yes,Full Bar,Trendy,Casual,Yes,Asian Fusion; Portuguese; Chinese; ,No,Yes,NA,Yes,"Dinner, Late Night",Yes,No,NA,NA,NA,NA,No,A,NA,NA,Average,No,Street,Yes,Yes,NA,NA,Free,$31-60,Macao trading Co,TriBeCa,4.0,685,10013,311 Church St
+59,NA,Yes,Full Bar,Upscale,Dressy,Yes,Steakhouses; Kosher; Asian Fusion; ,Yes,Yes,NA,NA,Dinner,Yes,No,NA,NA,NA,NA,Yes,A,NA,NA,Average,No,NA,Yes,Yes,Yes,NA,Free,Above $61,Reserve Cut,Financial District,4.0,229,10004,40 Broad StFl 2
+60,NA,No,No,Casual,Casual,Yes,Vietnamese; ,No,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,B,NA,NA,Average,No,Street,Yes,No,Yes,NA,No,Under $10,Pho Bang Restaurant,Little Italy,4.0,487,10013,157 Mott St
+61,NA,Yes,Beer & Wine Only,NA,NA,NA,Asian Fusion; Vegan; Gluten-Free; ,No,No,NA,NA,NA,NA,NA,No,Yes,Yes,NA,No,NA,Yes,Yes,NA,No,NA,Yes,No,No,Yes,Free,NA,noodlelove,"Nolita, Little Italy",4.0,25,10012,192 Mott St
+62,NA,Yes,No,Casual,Casual,Yes,Chinese; Thai; Asian Fusion; ,No,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,B,NA,Yes,Average,No,Street,Yes,No,NA,NA,No,$11-30,XO Taste,"Chinatown, Little Italy",3.0,180,10013,41 Elizabeth St
+63,NA,Yes,NA,NA,NA,NA,Food Delivery Services; ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,NA,No,NA,NA,Galley,NA,NA,NA,NA,NA
+64,No,Yes,No,Casual,Casual,No,Chinese; Kosher; Vegan; ,Yes,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,Yes,NA,NA,Yes,C,Yes,Yes,Average,No,Street,Yes,No,Yes,Yes,No,$11-30,Buddha Bodai Kosher Vegetarian Restaurant,"Chinatown, Civic Center",4.0,882,10013,5 Mott St
+65,NA,Yes,Beer & Wine Only,Casual,Casual,No,Asian Fusion; ,No,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,Yes,Yes,Average,No,"Garage, Street",Yes,Yes,NA,NA,No,$11-30,LuAnne’s Wild Ginger All-Asian Vegan,"Little Italy, Nolita",4.0,615,10013,380 Broome St
+66,NA,Yes,No,Casual,Casual,No,Chinese; Noodles; ,No,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,No,Yes,Yes,Yes,No,A,Yes,Yes,Average,No,Street,Yes,Yes,NA,NA,No,Under $10,Noodle Village,"Chinatown, Civic Center",4.0,877,10013,13 Mott St
+67,NA,Yes,No,Casual,Casual,Yes,Malaysian; Singaporean; ,Yes,Yes,NA,Yes,"Breakfast, Lunch, Dessert",Yes,Yes,NA,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,No,No,No,No,Under $10,Kopitiam,"Lower East Side, Chinatown",4.0,378,10002,151 E Broadway
+68,NA,Yes,NA,NA,Casual,NA,Japanese; Sushi Bars; ,NA,No,NA,NA,NA,Yes,No,NA,NA,NA,NA,No,A,NA,NA,NA,No,NA,No,Yes,NA,NA,Free,$11-30,Tetsu,"TriBeCa, Civic Center",3.5,64,10013,78 Leonard St
+69,NA,Yes,Beer & Wine Only,Casual,Casual,No,Ramen; Sushi Bars; Noodles; ,Yes,No,No,NA,"Lunch, Dinner",Yes,Yes,NA,Yes,NA,NA,No,A,Yes,Yes,Average,No,Street,Yes,Yes,NA,NA,No,$11-30,Ajisen Ramen,"Chinatown, Civic Center",3.5,332,10013,14 Mott St
+70,NA,Yes,NA,NA,NA,NA,Vietnamese; Sandwiches; Noodles; ,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yes,No,NA,NA,NA,NA,Vietspot Tribeca,TriBeCa,NA,NA,10013,200 Church St
+71,No,Yes,Beer & Wine Only,Casual,Casual,Yes,Vietnamese; ,Yes,Yes,No,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,A,NA,Yes,Average,No,Street,Yes,Yes,Yes,Yes,Free,$11-30,Thanh Hoai 1,Chinatown,3.5,145,10013,73 Mulberry St
+72,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Vietnamese; ,No,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,Yes,NA,NA,Free,Under $10,Nha Trang One,Chinatown,3.5,703,10013,87 Baxter St
+73,NA,No,No,Casual,Casual,Yes,Chinese; Noodles; ,No,Yes,NA,Yes,"Lunch, Dinner",No,Yes,NA,NA,NA,NA,Yes,B,NA,Yes,Average,No,Street,Yes,No,Yes,NA,No,Under $10,Tasty Hand-Pulled Noodles,"Chinatown, Civic Center",4.0,1451,10013,1 Doyers St
+74,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Vietnamese; ,No,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,A,NA,Yes,Average,No,Street,Yes,No,Yes,NA,Free,Under $10,Pho Vietnam,Lower East Side,4.0,401,10002,87 Chrystie St
+75,NA,Yes,No,Casual,NA,Yes,American (New); Salad; Sandwiches; ,No,Yes,No,NA,Lunch,Yes,Yes,NA,NA,NA,NA,No,A,NA,NA,Average,No,NA,Yes,No,No,Yes,No,$11-30,Sticky’s Finger Joint,Financial District,4.0,115,10038,21 Maiden Ln
+76,NA,Yes,Beer & Wine Only,Casual,Casual,No,Vietnamese; ,No,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,A,Yes,NA,Average,No,Street,Yes,No,Yes,Yes,No,Under $10,Tu Do Restaurant,"Chinatown, Lower East Side",4.0,288,10013,102 Bowery St
+77,NA,NA,NA,NA,NA,NA,Salad; Juice Bars & Smoothies; Falafel; ,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yes,No,NA,NA,NA,NA,Taim Fidi,Financial District,4.0,20,10038,75 Maiden Ln
+78,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Japanese; Sushi Bars; Salad; ,Yes,Yes,NA,Yes,"Dinner, Dessert",Yes,Yes,NA,NA,NA,NA,Yes,A,NA,NA,Quiet,No,Street,Yes,Yes,Yes,No,Free,$11-30,Amano Sushi,"Chinatown, Lower East Side",4.0,37,10002,50 Eldridge St
+79,NA,Yes,NA,NA,NA,NA,Food Delivery Services; ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,No,NA,NA,No,NA,Moderate,Epicured,"Chelsea, Midtown West, Hell's Kitchen",4.0,18,10001,NA
+80,NA,NA,NA,NA,NA,NA,Vegan; Vegetarian; ,NA,NA,NA,NA,NA,NA,NA,NA,Yes,Yes,Yes,NA,A,Yes,Yes,NA,NA,NA,NA,No,NA,NA,Free,NA,by CHLOE. Seaport District,South Street Seaport,4.0,12,10038,181 Front St
+81,No,Yes,No,"Casual, Trendy",Casual,No,Asian Fusion; ,Yes,Yes,No,NA,Lunch,No,Yes,NA,NA,NA,NA,No,NA,NA,Yes,Average,No,Street,Yes,No,No,NA,Free,Under $10,The Bao Shoppe,"Lower East Side, Chinatown",4.0,170,10002,34 Canal St
+82,No,Yes,No,"Casual, Trendy",Casual,Yes,Poke; Salad; Ramen; ,Yes,Yes,No,NA,"Lunch, Dinner, Dessert",Yes,Yes,No,NA,NA,NA,No,A,NA,NA,Average,No,Street,Yes,No,No,Yes,Free,$11-30,Poke Green,TriBeCa,4.0,51,10007,275 Greenwich St
+83,No,Yes,Beer & Wine Only,Casual,Casual,Yes,Malaysian; Asian Fusion; Cantonese; ,Yes,Yes,No,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,B,NA,NA,Average,No,Street,Yes,Yes,Yes,NA,Free,$11-30,Jaya 888,Chinatown,3.0,272,10013,90 Baxter St
+84,NA,Yes,No,Casual,Casual,Yes,Salad; Wraps; Vegetarian; ,NA,Yes,NA,NA,Lunch,No,Yes,NA,NA,NA,NA,No,A,Yes,Yes,Quiet,No,NA,Yes,No,No,NA,NA,Under $10,Just Salad,"Civic Center, Financial District, TriBeCa",3.0,68,10279,233 Broadway
+85,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Vietnamese; Asian Fusion; ,Yes,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,B,NA,NA,Average,No,Street,Yes,No,NA,NA,No,$11-30,Pasteur Grill and Noodles,Chinatown,3.5,246,10013,85 Baxter St
+86,NA,Yes,Full Bar,"Casual, Trendy, Classy, Upscale",Casual,No,Chinese; Asian Fusion; Cocktail Bars; ,No,No,NA,Yes,"Lunch, Dinner",Yes,Yes,Yes,NA,NA,NA,No,A,NA,Yes,Quiet,No,Street,Yes,Yes,Yes,Yes,No,$31-60,Rice & Gold,Chinatown,3.5,229,10013,50 Bowery
+87,NA,No,Beer & Wine Only,Casual,Casual,No,Japanese; Noodles; Soup; ,No,No,NA,Yes,Dinner,No,No,NA,NA,NA,NA,No,B,Yes,Yes,Average,No,Street,No,No,Yes,NA,No,$11-30,Cocoron,"Nolita, Little Italy",4.0,577,10012,37 Kenmare St
+88,NA,Yes,No,Casual,NA,Yes,Soup; Salad; Sandwiches; ,Yes,Yes,NA,NA,Lunch,Yes,Yes,NA,NA,NA,NA,No,A,NA,Yes,Average,No,NA,Yes,No,NA,NA,No,$11-30,Hale and Hearty Soups,Financial District,3.5,65,10038,111 Fulton St
+89,NA,Yes,Beer & Wine Only,"Hipster, Casual",Casual,Yes,Burgers; Salad; American (Traditional); ,Yes,Yes,NA,Yes,Lunch,Yes,Yes,NA,NA,NA,NA,Yes,A,Yes,Yes,Average,No,Street,Yes,No,No,NA,No,$11-30,Bareburger,Financial District,3.5,408,10038,155 William St
+90,NA,Yes,No,"Hipster, Casual",Casual,No,Vietnamese; Chicken Shop; ,Yes,Yes,NA,NA,"Lunch, Dinner",No,Yes,NA,NA,NA,NA,No,A,NA,NA,Average,No,NA,Yes,No,No,No,No,$11-30,Bep Ga,Lower East Side,4.5,118,10002,70 Forsyth St
+91,NA,Yes,Full Bar,Casual,Casual,Yes,Vietnamese; ,Yes,Yes,No,NA,Lunch,Yes,Yes,NA,NA,NA,NA,Yes,A,NA,Yes,Average,No,Street,Yes,Yes,NA,NA,No,$11-30,VCafe,TriBeCa,3.0,189,10013,345 Greenwich St
+92,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Vietnamese; ,No,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,Under $10,Pho Grand,Lower East Side,3.5,717,10002,277 Grand StSte C
+93,NA,No,No,Casual,NA,Yes,Delis; Vietnamese; Sandwiches; ,No,No,NA,NA,Lunch,No,No,NA,NA,NA,NA,No,A,NA,NA,Quiet,No,Street,Yes,No,NA,NA,No,Under $10,Sau Voi,Chinatown,4.0,233,10013,101 Lafayette St
+94,NA,Yes,No,Casual,NA,No,Vietnamese; Sandwiches; ,Yes,Yes,NA,NA,Lunch,No,No,NA,NA,NA,NA,Yes,A,NA,NA,Average,No,Street,Yes,No,NA,NA,Free,Under $10,Vietspot,Financial District,3.5,250,10038,99 Nassau StSte C
+95,No,Yes,No,Casual,Casual,Yes,Sushi Bars; Ramen; ,No,Yes,No,Yes,Dinner,Yes,Yes,NA,Yes,NA,Yes,Yes,A,Yes,Yes,Average,Yes,Street,Yes,Yes,Yes,NA,Free,$11-30,Zutto Japanese American Pub,TriBeCa,4.0,831,10013,77 Hudson St
+96,NA,Yes,NA,NA,Casual,NA,Sushi Bars; Salad; ,NA,Yes,NA,NA,NA,Yes,Yes,NA,NA,NA,NA,No,NA,NA,NA,Average,No,NA,Yes,No,NA,NA,NA,Under $10,10 Jin’s Empire Asian Cuisine,"Civic Center, TriBeCa",2.0,25,10007,10 Murray St
+97,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Malaysian; ,No,Yes,No,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,Yes,A,NA,Yes,Average,No,Street,Yes,Yes,NA,NA,Free,$11-30,New Malaysia,Chinatown,3.5,644,10013,48 Bowery
+98,NA,Yes,No,Casual,NA,Yes,Falafel; Vegetarian; Sandwiches; ,Yes,Yes,No,NA,Lunch,No,Yes,NA,NA,NA,NA,No,A,Yes,Yes,Average,No,Street,Yes,No,NA,NA,Free,Under $10,Taim Nolita,Nolita,4.0,457,10012,45 Spring St
+99,NA,Yes,No,Casual,Casual,Yes,Thai; ,Yes,Yes,No,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,Yes,Yes,Quiet,No,Street,Yes,No,No,Yes,No,$11-30,Thai Soup,East Harlem,3.5,145,10035,166 E 118th StSte A
+100,No,Yes,Beer & Wine Only,"Casual, Intimate",Casual,Yes,Thai; ,Yes,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,Yes,NA,NA,NA,No,B,Yes,Yes,Average,No,Street,Yes,Yes,Yes,No,Free,$11-30,Malii,East Harlem,4.5,198,10029,2028 2nd Ave
+101,NA,Yes,Full Bar,"Casual, Intimate",Casual,Yes,Thai; Asian Fusion; ,Yes,Yes,No,Yes,"Lunch, Dinner",Yes,Yes,NA,Yes,Yes,Yes,No,B,Yes,Yes,Average,No,Street,Yes,Yes,Yes,Yes,No,$11-30,Up Thai,"Upper East Side, Yorkville",4.5,1854,10021,1411 2nd Ave
+102,No,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; Salad; Noodles; ,Yes,Yes,NA,NA,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,B,NA,Yes,Average,No,Street,Yes,Yes,Yes,No,Free,$11-30,Pro Thai,East Harlem,4.0,159,10029,1575 Lexington Ave
+103,NA,Yes,Full Bar,Casual,Casual,Yes,Thai; Noodles; Soup; ,Yes,Yes,No,NA,"Lunch, Dinner",Yes,Yes,NA,Yes,NA,NA,No,A,NA,Yes,Average,Yes,Street,Yes,Yes,Yes,Yes,No,$11-30,Thai Market,Manhattan Valley,4.0,904,10025,960 Amsterdam Ave
+104,No,Yes,Full Bar,NA,Casual,Yes,Thai; ,Yes,Yes,No,NA,NA,Yes,Yes,NA,NA,NA,NA,No,A,Yes,Yes,Average,No,Street,Yes,Yes,Yes,No,Free,NA,SalaThai Restaurant,Upper West Side,4.5,97,10023,307 Amsterdam Ave
+105,No,Yes,Beer & Wine Only,NA,NA,No,Thai; ,Yes,Yes,No,Yes,NA,NA,NA,Yes,Yes,Yes,Yes,No,NA,NA,Yes,Average,No,"Garage, Street",Yes,No,Yes,Yes,Free,NA,Taladwat,"Hell's Kitchen, Midtown West, Theater District",4.5,31,10019,714 9th Ave
+106,NA,Yes,No,Casual,Casual,Yes,Thai; ,NA,Yes,NA,NA,"Lunch, Dinner",Yes,No,NA,NA,NA,NA,No,A,Yes,NA,NA,No,Street,Yes,No,NA,NA,No,Under $10,Bangklyn East Harlem,East Harlem,4.5,76,10029,2051 2nd Ave
+107,No,Yes,Beer & Wine Only,Casual,NA,Yes,Thai; Noodles; Chicken Wings; ,Yes,Yes,No,Yes,"Lunch, Dinner",No,No,NA,Yes,NA,NA,No,A,Yes,Yes,Average,No,Street,Yes,No,Yes,NA,No,$11-30,Pure Thai Cookhouse,"Theater District, Hell's Kitchen, Midtown West",4.0,2286,10019,766 9th Ave
+108,No,Yes,No,Casual,Casual,Yes,Thai; ,Yes,Yes,No,NA,Lunch,No,Yes,NA,NA,NA,NA,No,P,NA,NA,Average,No,Street,Yes,No,No,Yes,No,$11-30,Thai BKK,East Harlem,3.5,57,10035,2021 Lexington Ave
+109,NA,Yes,Beer & Wine Only,Casual,Casual,Yes,Thai; Noodles; ,No,Yes,NA,Yes,"Lunch, Dinner",Yes,Yes,NA,NA,NA,NA,No,A,NA,Yes,Average,No,Street,Yes,No,Yes,NA,No,$11-30,Pye Boat Noodle,"Yorkville, Upper East Side",4.0,372,10128,1711 Second Ave
+110,NA,NA,NA,NA,NA,NA,Thai; Vietnamese; ,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yes,NA,NA,NA,NA,NA,Mekong,Manhattan Valley,4.0,25,10025,917 Columbus Ave
+111,NA,Yes,Beer & Wine Only,Classy,Casual,Yes,Thai; ,Yes,Yes,No,Yes,"Brunch, Lunch",Yes,Yes,NA,NA,NA,NA,No,A,NA,Yes,Quiet,No,Street,Yes,No,Yes,Yes,No,$11-30,MRS. AN Thai,East Harlem,4.0,65,10029,173 E 99th St
+112,NA,Yes,NA,NA,NA,NA,Thai; ,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,A,NA,NA,NA,NA,NA,Yes,Yes,NA,NA,No,NA,Maison Bangkok,"Upper East Side, Yorkville",5.0,16,10075,355 E 78st
+113,NA,NA,NA,NA,NA,NA,Thai; ,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yes,NA,NA,NA,NA,NA,Living Thai,Manhattan Valley,4.0,11,10025,931 Amsterdam Ave
+114,NA,Yes,No,NA,Casual,No,Thai; ,No,Yes,NA,Yes,"Lunch, Dinner",No,Yes,NA,NA,NA,NA,No,NA,NA,Yes,Quiet,No,Street,Yes,No,NA,NA,Free,$11-30,River Thai Food,NA,4.0,153,07020,24 Hilliard Ave
+115,NA,Yes,Beer & Wine Only,"Casual, Trendy",Casual,Yes,Thai; ,Yes,Yes,NA,NA,"Lunch, Dinner, Dessert",Yes,Yes,Yes,NA,NA,NA,Yes,A,NA,Yes,Average,No,Street,Yes,Yes,Yes,NA,No,$11-30,Thais New York,"Yorkville, Upper East Side",4.0,116,10128,1750 2nd Ave
+116,NA,Yes,Full Bar,Casual,Casual,Yes,Thai; ,Yes,Yes,No,Yes,Dinner,No,No,NA,NA,NA,NA,No,A,NA,Yes,Average,Yes,Street,Yes,No,Yes,NA,No,$11-30,Land,Upper West Side,4.0,1006,10024,450 Amsterdam Ave
+117,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+118,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+119,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+120,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+121,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+122,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+123,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+124,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+125,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+126,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+127,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+128,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+129,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+130,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+131,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+132,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+133,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+134,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+135,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+136,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+137,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+138,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+139,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+140,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+141,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+142,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+143,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+144,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+145,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+146,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+147,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+148,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+149,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+150,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+151,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+152,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+153,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+154,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+155,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+156,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+157,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+158,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+159,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+160,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+161,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+162,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+163,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+164,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+165,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+166,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+167,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+168,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+169,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+170,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+171,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+172,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+173,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+174,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+175,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+176,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+177,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+178,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+179,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+180,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+181,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+182,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+183,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+184,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+185,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+186,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+187,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+188,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+189,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+190,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+191,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+192,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+193,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+194,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+195,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+196,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+197,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+198,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+199,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+200,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+201,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+202,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+203,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+204,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+205,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+206,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+207,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+208,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+209,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+210,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+211,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+212,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+213,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+214,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+215,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+216,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+217,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+218,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+219,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+220,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+221,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+222,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+223,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+224,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+225,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+226,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+227,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+228,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+229,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+230,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+231,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+232,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+233,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+234,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+235,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+236,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+237,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+238,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+239,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+240,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+241,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+242,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+243,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+244,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+245,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+246,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+247,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+248,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+249,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+250,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+251,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+252,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+253,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+254,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+255,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+256,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+257,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+258,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+259,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+260,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+261,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+262,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+263,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+264,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+265,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+266,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+267,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+268,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+269,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+270,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+271,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+272,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+273,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+274,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+275,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+276,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+277,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+278,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+279,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+280,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+281,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+282,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+283,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+284,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+285,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+286,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+287,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+288,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+289,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+290,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+291,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+292,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+293,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+294,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+295,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+296,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+297,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+298,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+299,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+300,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+301,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+302,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+303,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+304,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+305,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+306,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+307,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+308,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+309,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+310,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+311,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+312,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+313,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+314,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+315,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+316,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+317,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+318,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+319,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+320,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+321,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+322,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+323,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+324,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+325,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+326,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+327,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+328,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+329,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+330,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+331,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+332,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+333,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+334,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+335,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+336,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+337,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+338,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+339,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+340,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+341,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+342,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+343,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+344,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+345,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+346,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+347,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+348,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+349,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+350,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+351,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+352,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+353,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+354,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+355,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+356,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+357,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+358,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+359,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+360,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+361,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+362,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+363,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+364,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+365,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+366,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+367,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+368,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+369,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+370,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+371,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+372,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+373,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+374,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+375,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
+376,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yelp,NA,NA,NA,NA,NA
