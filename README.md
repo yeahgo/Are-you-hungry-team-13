@@ -8,7 +8,7 @@
 
 **Data Acquisition**:
 
- * Use "Yelp Restaurant Info Scraper.ipynb" to get search urls and scrape information for restaurants with different cuisine type from Yelp webiste. The script iterates through all locations in NYC. 
+ * Use "Yelp Restaurant Info Scraper.ipynb" to get search urls and scrape information for restaurants with different cuisine types from Yelp webiste. The script iterates through all locations in NYC. 
  * After getting the csv for each cuisine type, we use "Dataframe Cleaner.ipynb" to clean and merge all the csv files into a final dataframe. 
  
      We use this final dataframe (final_df.csv) as our database.
@@ -35,3 +35,4 @@ The recommendation engnine enables users to input features that indicate their p
 8. Reservability
 9. Restaurant Ambience
 
+(if less than 5 restaurants match with the user's preference, our system will only output less than 5 restaurants)
