@@ -8,6 +8,7 @@
 
  * Use "Yelp Restaurant Info Scraper.ipynb" to get search urls and scrape information for restaurants with different cuisine type. The script iterates through all locations in NYC. 
  * After getting the csv for each cuisine type, we use "Dataframe Cleaner.ipynb" to clean and merge all the csv files as a final dataframe. We use this final dataframe (final_df.csv) as our database.
+ * Our final dataframe has about 1800 NYC restaurants.
 
 **Recommendation Engine**: 
 The recommendation engnine enables users to input features that indicate their preferences.Our machine can output top 3 restaurants with highest yelp rating from as our recommendation for the user.
