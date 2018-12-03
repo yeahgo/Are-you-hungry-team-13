@@ -15,7 +15,11 @@
  * Our final dataframe has about 2500 NYC restaurants.
 
 **Recommendation Engine**: 
+
+The code for the engine is in "Restaurant Recommendation Engine Team 13.ipynb". The notebook also provides one demo for better illustration.
+
 The recommendation engine enables users to input features that indicate their preferences. Our engine can output top 5 restaurants with highest yelp rating and best hygience score from the database as our recommendation for the user.
+
 * User input features: 
 1. Restaurant name keyword
 2. Cuisine type
@@ -34,8 +38,6 @@ The recommendation engine enables users to input features that indicate their pr
 7. Parking info
 8. Reservability
 9. Restaurant Ambience
-
-The code for the engine is in "Restaurant Recommendation Engine Team 13.ipynb". The notebook also provides one demo for better illustration.
 
 Note: 
 - If less than 5 restaurants match with the user's preference, our system will only output less than 5 restaurants.
