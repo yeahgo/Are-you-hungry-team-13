@@ -8,7 +8,7 @@
 
 **Data Acquisition**:
 
- * Use "Yelp Restaurant Info Scraper.ipynb" to get search urls and scrape information for restaurants with different cuisine types from Yelp webiste. The script iterates through all locations in NYC. 
+ * Use "Yelp Restaurant Info Scraper.ipynb" (a webpage crawler) to get search urls and scrape information for restaurants with different cuisine types from Yelp webiste. The script iterates through all locations in NYC. 
  * After getting the csv for each cuisine type, we use "Dataframe Cleaner.ipynb" to clean and merge all the csv files into a final dataframe. 
  
      We use this final dataframe (final_df.csv) as our database.
@@ -35,10 +35,9 @@ The recommendation engine enables users to input features that indicate their pr
 8. Reservability
 9. Restaurant Ambience
 
-The code for the engine is in "Restaurant Recommendation Engine Team 13.ipynb". The notebook also provides three demos for better illustration.
+The code for the engine is in "Restaurant Recommendation Engine Team 13.ipynb". The notebook also provides one demo for better illustration.
 
 Note: 
 - If less than 5 restaurants match with the user's preference, our system will only output less than 5 restaurants.
 
 - Appearance of 'Nan' in some output features means Yelp provides no info about this feature.
-
